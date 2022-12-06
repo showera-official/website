@@ -8,5 +8,4 @@ use Illuminate\Http\Request;
 class GoogleControler extends Controller
 {
     
-
 }
